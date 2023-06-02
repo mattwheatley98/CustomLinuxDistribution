@@ -1,6 +1,6 @@
 # Custom Linux Distribution
 
-This is a custom Linux distro intended to be used with a Raspberry Pi 4. The distro was created using Yocto Project and an RPI4 BSP. Intended to be used to supplement a different project, or as a standalone project in the future, this distro is customized to be lightweight and able to support projects using I2C and WiFi.
+This is a custom Linux distro intended to be used with a Raspberry Pi 4. The distro was created using Yocto Project and an RPI4 BSP. Intended to be used to supplement a different project (leaning toward something with my car project, hence the "carproject" application), or as a standalone project in the future, this distro is customized to be lightweight and able to support projects using I2C and WiFi.
 
 **Please note that this repository includes my custom layer and only the .conf files from my build environment, despite Poky and the RPI4's BSP being referenced in bblayers.conf!**
 
