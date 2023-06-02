@@ -11,7 +11,7 @@ The main features of this distro include:
 
 Please refer below for demonstrations of each feature:
 
-## Enabled I2C Ports & WiFi
+## Enabled I2C Port & WiFi
 Enabled I2C  | Enabled WiFi
 ------------- | -------------
 <video src="https://github.com/mattwheatley98/CustomLinuxDistribution/assets/113391095/e359e289-f446-42f3-9e46-36c7b23518e7" width = 500 height = 1000>  |  <video src="https://github.com/mattwheatley98/CustomLinuxDistribution/assets/113391095/523fcc7e-55e1-4a24-b2f3-c36175a44051" width = 500 height = 1000>
